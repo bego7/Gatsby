@@ -1,0 +1,12 @@
+.iconos{
+    padding:20px;
+    font-size:46px;
+    cursor: pointer;
+    /* text-align:center; */
+}
+
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}

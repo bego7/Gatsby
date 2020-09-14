@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+
+.badge{
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-top:10px;
+}
+
+h1{
+    font-size:48px;
+    font-family: 'Anton', sans-serif;
+}
