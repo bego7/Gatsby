@@ -17,6 +17,7 @@ const ContactPage = () => {
      <MDBCol lg="5" className="lg-0 mb-4">
        <MDBCard>
          <MDBCardBody>
+         
            <div className="form-header ">
              <h3 className="mt-2">
                <MDBIcon icon="envelope" /> Regístrate:
